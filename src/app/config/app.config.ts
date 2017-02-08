@@ -2,7 +2,7 @@ import { Injectable } from '@angular/core';
 
 @Injectable()
 export class AppConfig {
-    apiUrl:any = "http://localhost:5011/api";
+    apiUrl:any = "http://localhost:3000/api";
     perPageDefault:any = 5;
     perPageArray:any = [5,10,20,30,40,50];
     MOMENT_DATE_TIME_FORMAT:any = 'YYYY-MM-DD HH:mm:ss';    
