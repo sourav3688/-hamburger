@@ -1,0 +1,59 @@
+{
+  "items": [
+    {
+      "ingredients": [
+        "lettuce",
+        "tomato",
+        "shakesauce",
+        "cheeseburger"
+      ],
+      "name": "ShackBurger",
+      "price": 10
+    },
+    {
+      "ingredients": [
+        "lettuce",
+        "shakesauce",
+        "cheeseburger",
+        "cherry pepper",
+        "smoked bacon"
+      ],
+      "name": "SmokeShack",
+      "price": 12
+    },
+    {
+      "ingredients": [
+        "lettuce",
+        "tomato",
+        "smoked bacon",
+        "pickle",
+        "cheeseburger"
+      ],
+      "name": "Hamburger",
+      "price": 10
+    },
+    {
+      "ingredients": [
+        "Shakesauce",
+        "tomato",
+        "lettuce",
+        "cheddar cheese",
+        "muenster",
+        "mushroom"
+      ],
+      "name": "Shroom Burger",
+      "price": 14
+    },
+    {
+      "ingredients": [
+        "lettuce",
+        "tomato",
+        "shakesauce",
+        "Shroom Burger",
+        "Cheese Burger"
+      ],
+      "name": "Shack Stack",
+      "price": 17
+    }
+  ]
+}
