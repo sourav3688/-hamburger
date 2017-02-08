@@ -10,8 +10,8 @@ This projects contents
 * Implementation of a minimalistic online hamburger ordering website without backend support.
 * The data of the list of hamburgers are attached as `data.json`.
 * You must be able to choose one or more hamburgers from your ordering webpage. When you choose the items of the burger, the list the order summary should update in the right side of the screen dynamically as you select/deselect and change the quantities of the items.
-* There is a button to confirm the order.
-* After you click on the button to confirm the order, the screen will display "Order successful".
+* There should be a button to confirm the order.
+* After you click on the button to confirm the order, the screen should display "Order successful". Remember, you are just displaying this message, without working with the backend.  
 
 
 ## Getting Started
