@@ -73,7 +73,7 @@ Now browse to the app at [`localhost:3000`][local-app-url].
 
 ## Contact
 
-For more information on AngularJS please check out [angularjs.org][angularjs].
+For more information on Angular 2 please check out [angularjs.io][angularjs].
 
 
 [angularjs]: https://angular.io/
