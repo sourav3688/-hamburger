@@ -7,7 +7,6 @@ import { Ng2Webstorage } from 'ng2-webstorage';
 import { Router, ActivatedRoute, Params, NavigationStart } from '@angular/router';
 import { ToasterModule } from 'angular2-toaster';
 import { PaginationModule } from 'ng2-bootstrap';
-import { Select2Module } from 'ng2-select2';
 
 import { HttpClient } from './../utility/http.client';
 import { WebStorage } from './../utility/web.storage';
@@ -31,7 +30,6 @@ import { successComponent } from './../components/home-components/success.compon
     routing,
     Ng2Webstorage,
     ToasterModule,
-    Select2Module,
     PaginationModule.forRoot()
   ],
   declarations: [
